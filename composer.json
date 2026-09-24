@@ -1,6 +1,6 @@
 {
-    "name": "aliqasemzadeh/livewire-bootstrap-modal",
-    "homepage": "https://github.com/aliqasemzadeh/livewire-bootstrap-modal",
+    "name": "rawitjan/livewire-bootstrap-modal",
+    "homepage": "https://github.com/rawitjan/livewire-bootstrap-modal",
     "description": "Dynamic Laravel Livewire Bootstrap modals.",
     "license": "MIT",
     "authors": [
@@ -17,6 +17,11 @@
         {
             "name": "Lungdsuo Mozhui",
             "email": "mozhui.lungdsuo@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "rawitjan",
+            "email": "88061883+rawitjan@users.noreply.github.com",
             "role": "Developer"
         }
 

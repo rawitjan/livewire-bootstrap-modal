@@ -33,7 +33,7 @@ npm install @popperjs/core
 Require the package:
 
 ```console
-composer require aliqasemzadeh/livewire-bootstrap-modal
+composer require rawitjan/livewire-bootstrap-modal
 ```
 
 Add the `livewire:modals` component to your app layout view:
@@ -44,12 +44,12 @@ Add the `livewire:modals` component to your app layout view:
 <script src="{{ asset('js/app.js') }}"></script>
 ```
 
-Require `../../vendor/aliqasemzadeh/livewire-bootstrap-modal/resources/js/modals` in your app javascript file:
+Require `../../vendor/rawitjan/livewire-bootstrap-modal/resources/js/modals` in your app javascript file:
 
 ```javascript
 import('@popperjs/core');
 import '../../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
-import '../../vendor/aliqasemzadeh/livewire-bootstrap-modal/resources/js/modals.js';
+import '../../vendor/rawitjan/livewire-bootstrap-modal/resources/js/modals.js';
 ```
 
 ## Usage
